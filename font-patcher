@@ -328,7 +328,8 @@ class font_patcher:
             'iAWriter'  : 'iMWriting',
             'iA Writer' : 'iM Writing',
             'iA-Writer' : 'iM-Writing',
-            'Cascadia'  : 'Delugia'
+            'Anka/Coder': 'AnaConder',
+            'Cascadia'  : 'Delugia',
         }
 
         # remove overly verbose font names
